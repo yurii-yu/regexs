@@ -5,7 +5,7 @@
 特性 | .NET | Java | JavaScript | PHP | Python | Ruby | Objective-C | Golang |
 ---|:---:|:---:|:-:|:--:|:--:|:------:|:----:|:--:|
 `\Q…\E`| × | √ | × |  √ | × |  ×      |    √  | √   |
-`\w \s \d`| 说明[^1] | ASCII匹配规则 | ASCII匹配规则，\s除外 | ASCII匹配规则 | 说明[^2] |  ASCII匹配规则 | Unicode匹配规则 | ASCII匹配规则   |
+`\w \s \d`| 说明[^1] | ASCII匹配规则 | ASCII匹配规则，`\s`除外 | ASCII匹配规则 | 说明[^2] |  ASCII匹配规则 | Unicode匹配规则 | ASCII匹配规则   |
 POSIX字符组| × | ASCII字符 | x | ASCII字符 | x | 说明[^3] | x | ASCII字符   |
    
 
