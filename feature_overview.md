@@ -89,8 +89,6 @@ POSIX字符组| × | ASCII字符 | x | ASCII字符 | x | 说明[^3] | x | ASCII�
 
 # Unicode
 
-# 匹配模式 (match mode)
-
 特性 | .NET | Java | JavaScript | PHP | Python | Ruby | Objective-C | Golang |
 ---|:---:|:---:|:-:|:--:|:--:|:------:|:----:|:--:|
 Unicode Property| √| √| ×| √| ×|[^23] | √| √| 
