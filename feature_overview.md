@@ -1,5 +1,7 @@
 # 常用语言正则特性一览表
 
+本页内容节选自[《正则指引》（第2版）](https://book.douban.com/subject/30352656/)
+
 ## 字符组 (character class)
 
 特性 | .NET | Java | JavaScript | PHP | Python | Ruby | Objective-C | Golang |
